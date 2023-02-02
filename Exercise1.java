@@ -53,7 +53,7 @@ public class exercise1 {
             System.out.println("Invalid!");
         }
 
-        // ============================================================
+        // =============================================
         System.out.println("3. Finding specific files.");
         // 3. Finding specific files.
 
@@ -107,7 +107,7 @@ public class exercise1 {
 
         // ============================================================
         System.out.println("5. Replacing Text");
-        String phonenumbers = "+6391512345456, 0917123561234, +639190011223, 0915456213461";
+        String phonenumbers = "+639554726842, 092615120798, +63988567213, 091447328178";
 
         // Rules
         // Make all phone numbers uniform by making them all start with +63
